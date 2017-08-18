@@ -1,6 +1,8 @@
 ## my script from data carpentry UC Merced
 ## Julie Lowndes lowndes@nceas.ucsb.edu
 ## Aug 17-18, 2017 ... 
+## Today is better than yesterday 
+
 
 ## download data into my R project ----
 # download.file("https://ndownloader.figshare.com/files/2292169",     
