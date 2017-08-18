@@ -11,7 +11,6 @@ surveys <- read.csv("data/portal_data_joined.csv")
 
 ## explore our data (content)
 head(surveys) # show first 6 rows of data
-tail(surveys) # show last 6 rows of data
 tail(surveys, 12) # show last 12 rows of data
 
 ## summaries
