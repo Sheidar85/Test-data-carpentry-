@@ -59,7 +59,7 @@ surveys[surveys$genus == 'Ammodramus', ]
 ## return a few columns
 surveys[surveys$genus == 'Ammodramus', 
         c('record_id', 'month', 'weight') ]
-
+ 
 ## how many observations (rows) are there in January (1) and February (2)?
 
 ## one way to do it; the `|` operator says 'or'
