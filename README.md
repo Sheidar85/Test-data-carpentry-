@@ -12,5 +12,5 @@ This repository demonstrates **software** and _formats_:
 1. _Rmarkdown_
 
 ## Conclusion
-
-![](https://octodex.github.com/images/labtocat.png)
+write your comclusion here.
+![](my_plot.png)
